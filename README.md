@@ -4,12 +4,12 @@
 ---
 ## Screenshot hasil program
 
-Tugas 1 Form Biodata Mahasiswa
+## Tugas 1 Form Biodata Mahasiswa
 
 ![Tampilan](form_biodata_mahasiswa.png)
 ---
 
-Tugas 2 konversi suhu
+## Tugas 2 konversi suhu
 
 - suhu 0
 ![Tampilan](konversi_suhu_0.png)
